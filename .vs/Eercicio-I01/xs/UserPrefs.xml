@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{689AD60D-3B56-4A49-B12D-A85BD8350366}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidadorDeRango/ValidadorRangos.cs">
+    <Files>
+      <File FileName="ValidadorDeRango/Class1.cs" Line="5" Column="35" />
+      <File FileName="PedidosAlUsuario/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eercicio-I01" expanded="True" selected="True">
+            <Node name="Biblioteca" expanded="True" />
+            <Node name="PedidosAlUsuario" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Consola FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../todo/biblioteca/ConversorDeTemperatura.cs" line="9" column="42" endLine="9" endColumn="60" offsetX="-1" offsetY="-1" expression="temperaturaCelsius" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Biblioteca FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

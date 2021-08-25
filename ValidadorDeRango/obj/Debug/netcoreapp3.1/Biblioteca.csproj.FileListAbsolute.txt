@@ -1,0 +1,10 @@
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/bin/Debug/netcoreapp3.1/Biblioteca.deps.json
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/bin/Debug/netcoreapp3.1/Biblioteca.dll
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/bin/Debug/netcoreapp3.1/Biblioteca.pdb
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.csproj.AssemblyReference.cache
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfoInputs.cache
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfo.cs
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.csproj.CoreCompileInputs.cache
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.dll
+/Users/robot/Projects/ValidadorDeRango/ValidadorDeRango/obj/Debug/netcoreapp3.1/Biblioteca.pdb

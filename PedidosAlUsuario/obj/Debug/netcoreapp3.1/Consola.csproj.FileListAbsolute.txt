@@ -1,0 +1,16 @@
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Consola.deps.json
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Consola.runtimeconfig.json
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Consola.runtimeconfig.dev.json
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Consola.dll
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Consola.pdb
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.csproj.AssemblyReference.cache
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.AssemblyInfoInputs.cache
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.AssemblyInfo.cs
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.csproj.CoreCompileInputs.cache
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.dll
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.pdb
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.genruntimeconfig.cache
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Biblioteca.dll
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/bin/Debug/netcoreapp3.1/Biblioteca.pdb
+/Users/robot/Projects/ValidadorDeRango/PedidosAlUsuario/obj/Debug/netcoreapp3.1/Consola.csproj.CopyComplete
